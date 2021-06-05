@@ -33,12 +33,12 @@
 	    <repository>
             <id>central</id>
             <name>es2021</name>
-            <url>http://192.168.160.49:8081/artifactory/maven_es2021</url>
+            <url>http://192.168.160.49:8082/artifactory/maven_es2021</url>
 	    </repository>
 	    <snapshotRepository>
             <id>snapshots</id>
             <name>es2021</name>
-            <url>http://192.168.160.49:8081/artifactory/maven_es2021</url>
+            <url>http://192.168.160.49:8082/artifactory/maven_es2021</url>
         </snapshotRepository>
 	</distributionManagement>
 
