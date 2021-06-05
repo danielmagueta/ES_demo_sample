@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>pt.ua.deti.es.p23</groupId>
-	<artifactId>es_demo</artifactId>
+	<artifactId>ES_DEMO</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>es_demo</name>
+	<name>ES_DEMO</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
