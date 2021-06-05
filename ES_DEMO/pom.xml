@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>pt.ua.deti.es.p23</groupId>
-	<artifactId>jenkins_integration_demo</artifactId>
+	<artifactId>esontrack</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>esontrack</name>
 	<description>Demo project for Spring Boot</description>
