@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>pt.ua.deti.es.p23</groupId>
-	<artifactId>esontrack</artifactId>
+	<artifactId>es_demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>esontrack</name>
+	<name>es_demo</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
