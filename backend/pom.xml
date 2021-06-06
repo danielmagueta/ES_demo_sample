@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>pt.ua.deti.es.p23</groupId>
-	<artifactId>src</artifactId>
+	<artifactId>OnTrack</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>src</name>
+	<name>OnTrack</name>
 	<description>ES_OnTrack backend</description>
 	<properties>
 		<java.version>11</java.version>
